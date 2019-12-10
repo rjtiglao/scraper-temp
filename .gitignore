@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+package1.json
 
 # testing
 /coverage
